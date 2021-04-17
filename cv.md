@@ -22,9 +22,10 @@ My goal is to learn frontend and become a good specialist in this area.
 let a = () => 'Hello World'
 ```
 ### Work experience
-https://github.com/Darkspice/FOStatistics  
-https://github.com/Darkspice/wotleague  
-https://github.com/Darkspice/FO-global-map  
+My pet-projects  
+[FO statistics](https://github.com/Darkspice/FOStatistics)  
+[WoT league](https://github.com/Darkspice/wotleague)  
+[FO Global map](https://github.com/Darkspice/FO-global-map)  
 
 ### Education
 Togliatti State University: material pressure processing.  
