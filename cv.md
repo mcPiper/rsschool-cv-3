@@ -1,4 +1,5 @@
 ## Novikov Ivan
+![photo](https://avatars.githubusercontent.com/u/41375294?s=250&v=4 "My photo")
 ### My contacts
 
 * Phone: +7 919 812 76 07
