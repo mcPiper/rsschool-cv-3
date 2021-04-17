@@ -17,3 +17,18 @@ My goal is to learn frontend and become a good specialist in this direction.
 * BEM
 * Figma
 * SQL
+
+### Code exemple
+```javascript
+let a = () => 'Hello World'
+```
+### Work experience
+... 
+
+### Education
+Togliatti State University: material pressure processing.  
+All free resources on the internet for self-education.
+
+### English level
+Pre-Intermediate - A2
+I always trying to take some time for practicing my english.
