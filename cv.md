@@ -5,9 +5,8 @@
 * Email: darkspice@yandex.ru
 
 ### About me
-My first rule - if you are interested in something, rather study it.  
-I'm just starting to enter the wounderful world of IT, and this is so fun and interesting.  
-My goal is to learn frontend and become a good specialist in this direction.  
+I’m just starting out in IT, its has quickly become a big passion of mine. I spend all my free time learning new things and honing the skills I already have.
+My goal is to learn frontend and become a good specialist in this area.
 
 ### My skills
 * JavaScript
