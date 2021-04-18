@@ -1,4 +1,4 @@
-## Novikov Ivan
+## Ivan Novikov
 ![photo](https://avatars.githubusercontent.com/u/41375294?s=250&v=4 "My photo")
 ### My contacts
 
