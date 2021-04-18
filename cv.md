@@ -23,7 +23,7 @@ My goal is to learn frontend and become a good specialist in this area.
 let a = () => 'Hello World'
 ```
 ### Work experience
-My pet-projects  
+My pet-projects:  
 [FO statistics](https://github.com/Darkspice/FOStatistics)  
 [WoT league](https://github.com/Darkspice/wotleague)  
 [FO Global map](https://github.com/Darkspice/FO-global-map)  
